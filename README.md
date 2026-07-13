@@ -18,6 +18,8 @@ MPU6050 Motion Sensor – Gives the robot the ability to detect orientation and 
 3.7V Lithium-ion Battery – Keeps DeskHub powered while staying compact and rechargeable. <br>
 
 ![Wiring schematic](images/connection.jpg)
+### PCB schematic
+![PCB schematic](images/PCB_schematic.jpg)
 
 ## Enclosure
 Designing a compact and modular shell that can house all electronics <br>
