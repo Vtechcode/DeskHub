@@ -25,6 +25,13 @@ Creating cutouts for the OLED display, servo wires, and switches <br>
 Ensuring the structure was lightweight enough not to strain the servos <br>
 
 ![3D CAD](images/CAD_3dView.jpg)
+### Fusion Design
+#### Body
+![Fusion Body](images/fusion_body_stl.jpg)
+#### Cap
+![Fusion Cap](images/fusion_cap_stl.jpg)
+#### Legs
+![Fusion Leg](images/fusion_leg_stl.jpg)
 
 ## 3D printing
 ![3D print](images/enclosure_mfg.jpg)
